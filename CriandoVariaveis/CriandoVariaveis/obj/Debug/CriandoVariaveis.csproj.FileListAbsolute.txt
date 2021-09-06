@@ -1,0 +1,6 @@
+C:\Users\Bk Bank - Atend 4\source\repos\CriandoVariaveis\CriandoVariaveis\bin\Debug\CriandoVariaveis.exe.config
+C:\Users\Bk Bank - Atend 4\source\repos\CriandoVariaveis\CriandoVariaveis\bin\Debug\CriandoVariaveis.exe
+C:\Users\Bk Bank - Atend 4\source\repos\CriandoVariaveis\CriandoVariaveis\bin\Debug\CriandoVariaveis.pdb
+C:\Users\Bk Bank - Atend 4\source\repos\CriandoVariaveis\CriandoVariaveis\obj\Debug\CriandoVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\Bk Bank - Atend 4\source\repos\CriandoVariaveis\CriandoVariaveis\obj\Debug\CriandoVariaveis.exe
+C:\Users\Bk Bank - Atend 4\source\repos\CriandoVariaveis\CriandoVariaveis\obj\Debug\CriandoVariaveis.pdb
